@@ -19,6 +19,9 @@
 	<description>E2EE Journal App</description>
 
 	<properties>
+
+		<sonar.organization>bhavkirat</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<java.version>17</java.version>
 	</properties>
 
